@@ -589,6 +589,32 @@
                  "id":32
                 }],
          "tilewidth":32
+        }, 
+        {
+         "columns":10,
+         "firstgid":36,
+         "image":"..\/workadventure\/assets\/tilesets\/CustomTileset.png",
+         "imageheight":331,
+         "imagewidth":331,
+         "margin":0,
+         "name":"CustomTileset",
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":10,
+         "firstgid":136,
+         "image":"..\/workadventure\/assets\/tilesets\/CustomTileset.png",
+         "imageheight":331,
+         "imagewidth":331,
+         "margin":1,
+         "name":"CustomTileset",
+         "spacing":1,
+         "tilecount":100,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
