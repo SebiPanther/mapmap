@@ -185,8 +185,74 @@
          "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":1281,
-         "source":"..\/assets\/tilesets\/floortileset.tsx"
+         "image":"..\/assets\/tilesets\/floortileset.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"floortileset",
+         "spacing":0,
+         "tilecount":64,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":500,
+                         "tileid":48
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":49
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":50
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":51
+                        }],
+                 "id":48
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":500,
+                         "tileid":58
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":59
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":60
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":61
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":62
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":63
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":56
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":57
+                        }],
+                 "id":58
+                }],
+         "tilewidth":32
         }, 
         {
          "columns":32,
@@ -228,8 +294,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":2273,
-         "source":"..\/assets\/tilesets\/LPC\/Tilesets\/Inside_B.tsx"
+         "image":"..\/assets\/tilesets\/LPC\/Tilesets\/Inside_B.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Inside_B",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":32,
